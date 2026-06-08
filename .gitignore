@@ -1,0 +1,11 @@
+# Local secrets and credentials should never land in the public deploy repo.
+.env
+.env.*
+!.env.example
+.npmrc
+*.pem
+*.p12
+*.p8
+*.key
+id_rsa*
+id_dsa*
