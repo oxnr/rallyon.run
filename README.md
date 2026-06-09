@@ -15,7 +15,7 @@ This repo is intentionally boring: it contains the built static site, the genera
 The current deployed build contains:
 
 - 2,039 travel-worthy competitions and participatory events
-- 40 standardized fitness and athletic tests
+- 50 standardized fitness and athletic tests
 - 63 sport/category labels
 
 The event catalog is static. It does not need realtime infrastructure; it is meant to be refreshed occasionally from the source repo as the research catalog improves.
