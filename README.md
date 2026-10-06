@@ -14,7 +14,7 @@ This repo is intentionally boring: it contains the built static site, the genera
 
 The current deployed build contains:
 
-- 2,043 travel-worthy competitions and participatory events
+- 2,105 travel-worthy competitions and participatory events
 - 50 standardized fitness and athletic tests
 - 62 sport/category labels
 
